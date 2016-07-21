@@ -6,7 +6,7 @@ use Illuminate\Filesystem\FilesystemManager;
 use Illuminate\Support\ServiceProvider;
 use League\Flysystem\Filesystem;
 
-class FileSystemWithNoLockServiceProvider extends ServiceProvider
+class FilesystemWithNoLockServiceProvider extends ServiceProvider
 {
     /**
      * Register the service provider.

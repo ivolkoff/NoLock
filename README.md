@@ -15,5 +15,5 @@ Illuminate\Filesystem\FilesystemServiceProvider::class,
 ```
 replace it with 
 ```php
-NoLock\FileSystemWithNoLockServiceProvider::class,
+NoLock\FilesystemWithNoLockServiceProvider::class,
 ```
