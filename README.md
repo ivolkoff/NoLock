@@ -3,7 +3,7 @@ get rid of this error on laravel 5.1 : file_put_contents(): Exclusive locks are 
 
 ### Installation
 ```
-composer require gilak/nolock
+composer require ivolkoff/nolock
 ```
 
 ### Usage
